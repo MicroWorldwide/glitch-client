@@ -66,3 +66,13 @@ of their source files. Those projects, and their locations in this repository, a
 * Stats by Mr.doob (`net/hires`)
 * GIF Encoding and Decoding by Thibault Imbert (`org/bytearray`)
 * SWF deconstruction by Paul Sivtsov (`org/igorcosta`)
+* Ronda Seven font by Yusuke Kamiyamane (`TSEngineAssets/src/assets/fonts`)
+* Prisencolinensinainciusol by Adriano Celentano (`TSEngineAssets/src/assets/sounds`)
+* GrahamScan by Schell Scivally (`locodeco/lib/src/locodeco/util/GrahamScan.as`)
+* Convex Hull by Christopher Salvarani (`locodeco/lib/src/locodeco/util/GrahamScan2.as`)
+* Apache's Flex	(`locodeco/swf/libs`)
+
+Some files from the original repo have been removed due to their restrictive licensing:
+
+* Helvetica (`TSEngineAssets/src/assets/fonts`)
+* VAG Rounded (`TSEngineAssets/src/assets/fonts`)
